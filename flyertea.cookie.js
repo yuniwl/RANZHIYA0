@@ -1,4 +1,4 @@
-const cookieName = '飞客茶馆'
+const cookieName = 'feike'
 const cookieKey = 'chavy_cookie_flyertea'
 const tokenKey = 'chavy_token_flyertea'
 const chavy = init()
